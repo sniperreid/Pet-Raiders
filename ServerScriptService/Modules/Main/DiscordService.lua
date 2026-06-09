@@ -1,8 +1,8 @@
 local Players = game:GetService("Players")
 local DiscordService = {}
 
-local WebhookURL = "https://aaa-peach-two.vercel.app/api/webhooks/1384980252517859459/u22f9mvw6jfOU_SFNnfR-u3DvfxqNUZkOcwmDuAckD_TWGXYuap2aVALc39EZb6unFB6"
-local WebhookURL2 = "https://webhook.lewisakura.moe/api/webhooks/1355534692899885196/kmQ7o_mw9zmpULCGy8iLnDKECp2LQye8iKf4Mq0pWZXNCZNpHwjjEAyyF-t2-mVwt9kv"
+local WebhookURL = ""
+local WebhookURL2 = ""
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpService = game:GetService("HttpService")
