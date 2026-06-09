@@ -9,9 +9,9 @@ local DataService = Services.get "DataService"
 
 local LinkService = {}
 
-LinkService.GuildId = "1337067480425697313"
-LinkService.AuthKey = "747786be-666a-4ba4-b112-76ed7f6a0e0c"
-LinkService.URL = "https://api.blox.link/v4/public/guilds/%s/roblox-to-discord/%s"
+LinkService.GuildId = ""
+LinkService.AuthKey = ""
+LinkService.URL = ""
 
 function LinkService:GetUserBody(Player)
 	local UserID = Player.UserId
